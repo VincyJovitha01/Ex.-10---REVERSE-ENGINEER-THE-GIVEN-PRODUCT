@@ -31,7 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![empd_4i](https://github.com/user-attachments/assets/3245d803-6df9-4147-87e6-75e18ebffe62)
+![empd_4i](https://github.com/user-attachments/assets/3a11a7ab-0cc0-4eba-9401-ec435d7a0005)
 
 ### Output:
 ![empd_4](https://github.com/user-attachments/assets/03bc9a83-83cc-4472-9648-7d735de38f96)
