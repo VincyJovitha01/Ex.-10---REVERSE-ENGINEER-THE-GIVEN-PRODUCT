@@ -1,6 +1,6 @@
 # Ex.04 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 21.10.2024
+### DATE: 14.10.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
